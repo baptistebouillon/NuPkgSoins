@@ -16,6 +16,7 @@ namespace ClassesMetier
         public string Libelle
         {
             get { return _libelle; }
+            //test commit
            
         }
         private DateTime _dateHeureSoin;
